@@ -18,8 +18,11 @@ Source from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%
 
 ##Output:
 CodeBook.md : Reference of variables 
+
 README.md : Information of run_analysis.R
+
 run_analysis.R : R script of this analyzeR
+
 Tidy.txt : the clean data generated through the R script
 
 
